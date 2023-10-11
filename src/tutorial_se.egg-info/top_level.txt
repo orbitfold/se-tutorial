@@ -1,2 +1,0 @@
-janc_vy_tutorial
-tests
